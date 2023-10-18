@@ -21,16 +21,16 @@ La disponibilité auprès de plusieurs marques des modules de type "nano" permet
 # Codesign Electronique Mécanique Thermique : Concevoir un produit à l‘épreuve de son environnement
 
 ### Cours 1 - Etude de cas + travail sur le contour de cartes
-![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
-![alt text](Images/cours-4-3.png)
+![alt text](Images/cours-1-1.png) ![alt text](Images/cours-1-2.png)
+![alt text](Images/cours-1-3.png)
 
 ### Cours 2 - La thermique pour l'électronicien
-![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
-![alt text](Images/cours-4-3.png)
+![alt text](Images/cours-2-1.png) ![alt text](Images/cours-2-2.png)
+![alt text](Images/cours-2-3.png)
 
 ### Cours 3 - Projet de synthèse, analyse "moteur/hacheur/chargeur" + intégration en boitier
-![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
-![alt text](Images/cours-4-3.png)
+![alt text](Images/cours-3-1.png) ![alt text](Images/cours-3-2.png)
+![alt text](Images/cours-3-3.png)
 
 ### Cours 4 - Conception mécanique pour l'électronicien
 ![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
