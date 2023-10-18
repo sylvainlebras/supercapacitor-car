@@ -18,7 +18,8 @@ La disponibilité auprès de plusieurs marques des modules de type "nano" permet
 - STmicro Nucléo Nano
 - Microchip Arduino Nano
 
-# Codesign Electronique Mécanique Thermique : Concevoir un produit à l‘épreuve de son environnement
+# Codesign Electronique Mécanique Thermique : 
+Concevoir un produit à l‘épreuve de son environnement
 
 ### Cours 1 - Etude de cas + travail sur le contour de cartes
 
@@ -28,12 +29,15 @@ Points clés du design mécanique des enveloppes de prduits électroniques :
 - La protection contre les décharges électrostatiques
 
 ![alt text](Images/cours-1-1.png) 
+
 Décharges électrostatiques sur la face avant d'un produit
 
 ![alt text](Images/cours-1-2.png)
+
 IP, IK, ESD : Modélisation par les différentes normes des contraintes d'environnement
 
 ![alt text](Images/cours-1-3.png)
+
 Import de contour de carte dans un logiciel de CAO électronique
 
 ### Cours 2 - La thermique pour l'électronicien
