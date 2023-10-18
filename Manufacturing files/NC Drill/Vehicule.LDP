@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Software\AD19projects\ESLI\Voiture-Supercapa-originale\Vehicule.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=vehicule-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=vehicule-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=vehicule-roundholes-nonplated.txt|DrillLayers=gtl,gbl
