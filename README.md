@@ -18,14 +18,23 @@ La disponibilité auprès de plusieurs marques des modules de type "nano" permet
 - STmicro Nucléo Nano
 - Microchip Arduino Nano
 
-#Codesign Electronique Mécanique Thermique
+# Codesign Electronique Mécanique Thermique : Concevoir un produit à l‘épreuve de son environnement
 
-## Cours 1 - Concevoir un produit à l‘épreuve de son environnement - Etude de cas + travail sur le contour de cartes
-## Cours 2 - Concevoir un produit à l‘épreuve de son environnement - La thermique pour l'électronicien
-## Cours 3 - Concevoir un produit à l‘épreuve de son environnement - Projet de synthèse, analyse "moteur/hacheur/chargeur" + intégration en boitier
-## Cours 4 - Concevoir un produit à l‘épreuve de son environnement - Conception mécanique pour l'électronicien
+### Cours 1 - Etude de cas + travail sur le contour de cartes
 ![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
 ![alt text](Images/cours-4-3.png)
 
-## Cours 5 - Concevoir un produit à l‘épreuve de son environnement - Conception mécanique pour l'électronicien
+### Cours 2 - La thermique pour l'électronicien
+![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
+![alt text](Images/cours-4-3.png)
+
+### Cours 3 - Projet de synthèse, analyse "moteur/hacheur/chargeur" + intégration en boitier
+![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
+![alt text](Images/cours-4-3.png)
+
+### Cours 4 - Conception mécanique pour l'électronicien
+![alt text](Images/cours-4-1.png) ![alt text](Images/cours-4-2.png)
+![alt text](Images/cours-4-3.png)
+
+## Cours 5 - Optimisation de l'intégration mécanique et gestion thermique au niveau du PCB
 
