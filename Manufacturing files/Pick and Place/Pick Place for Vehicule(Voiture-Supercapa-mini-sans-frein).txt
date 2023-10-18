@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\Software\AD19projects\ESLI\Voiture-Supercapa-originale\Project Outputs for Voiture-Supercapa\Pick Place\Pick Place for Vehicule(Voiture-Supercapa-mini-sans-frein).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/10/23
+Time:       15:11
+Revision:   Not in VersionControl
+Variant:    Voiture-Supercapa-mini-sans-frein
+Units used: mm
+
+Center-X(mm) Center-Y(mm) Comment           Description                                                                                                Designator Footprint                         Layer    Rotation 
+107.9000     62.9000      100nF             "WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 25VDC"               C7         WCAP-CSGP_0805_L2W1.25H0.8_Reflow TopLayer 180      
+143.0800     67.6200      L031K6            "STM32 Nucleo-32 development board with STM32L031K6 MCU, supports Arduino nano connectivity NUCLEO-L031K6" U3         STM-Nano                          TopLayer 270      
+161.7500     67.5000      450404015514      "WS-SLSU Mini Slide Switch, Same Side Connection Side Push, SPDT, 5VDC, 300mA, 240g"                       SW1        450404015514                      TopLayer 270      
+129.5000     82.0000      "RESISTOR 805"    Resistor                                                                                                   R8         R0805                             TopLayer 90       
+132.5000     80.0000      "RESISTOR 805"    Resistor                                                                                                   R7         R0805                             TopLayer 90       
+135.0000     78.0000      "RESISTOR 805"    Resistor                                                                                                   R6         R0805                             TopLayer 90       
+126.0500     82.0000      "Green, 3.2V"     "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Green, 3.2V, 140deg"                               D7         WL-SMCW_0805                      TopLayer 180      
+129.0000     80.0000      "Super Red, 1.9V" "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Super Red, 1.9V, 140deg"                           D6         WL-SMCW_0805                      TopLayer 180      
+131.5000     78.0000      "Amber, 2V"       "WL-SMCW SMT Mono-color Chip LED Waterclear, size 0805, Amber, 2V, 140deg"                                 D5         WL-SMCW_0805                      TopLayer 180      
+114.0000     52.5000      Cap-H             "Capacitor 8x20 H"                                                                                         C2         CAP-8x20                          TopLayer 270      
+61.0000      59.5000      "RESISTOR 805"    Resistor                                                                                                   Rgate4     R0805                             TopLayer 90       
+140.5000     62.7500      "RESISTOR 805"    Resistor                                                                                                   Rfb7       R0805                             TopLayer 180      
+153.0000     68.5000      "RESISTOR 805"    Resistor                                                                                                   Rfb6       R0805                             TopLayer 180      
+140.3000     52.7000      "RESISTOR 805"    Resistor                                                                                                   Rfb5       R0805                             TopLayer 180      
+148.2500     62.7500      "RESISTOR 805"    Resistor                                                                                                   Rfb4       R0805                             TopLayer 360      
+153.0000     63.5000      "RESISTOR 805"    Resistor                                                                                                   Rfb3       R0805                             TopLayer 180      
+62.5000      75.0000      "RESISTOR 805"    Resistor                                                                                                   Rfb2       R0805                             TopLayer 90       
+67.0000      75.0000      "RESISTOR 805"    Resistor                                                                                                   Rfb1       R0805                             TopLayer 90       
+143.0000     62.7500      "RESISTOR 805"    Resistor                                                                                                   R5         R0805                             TopLayer 180      
+135.5000     62.7500      "RESISTOR 805"    Resistor                                                                                                   R4         R0805                             TopLayer 180      
+145.5000     62.7500      "RESISTOR 805"    Resistor                                                                                                   R3         R0805                             TopLayer 180      
+117.0000     48.0000      61300311121       "WR-PHD Pin Header, THT, pitch 2.54mm, Single Row, Vertical, 3p"                                           P1         61300311121                       TopLayer 270      
+47.0000      58.5000      B120-13-F         "DIODE SCHOTTKY 20V 1A SMA"                                                                                D3         FP-SMA-MFG                        TopLayer 360      
+77.2500      86.2500      50F               "WCAP-STSC Supercapacitors (EDLCs), THT, D18 x H40mm, 50F, 2.7VDC"                                         C3         SuperCap_Couchee                  TopLayer 90       
+142.5000     54.0000      1540032NA3090     "WL-TTRW THT Phototransistor Round Waterclear, D3.85H5.3mm, 400-1100nm, 5mA, 30°"                          Q3         WL-TTRW_D3.85H5.3                 TopLayer 90       
+138.0000     54.0000      1540032NA3090     "WL-TTRW THT Phototransistor Round Waterclear, D3.85H5.3mm, 400-1100nm, 5mA, 30°"                          Q2         WL-TTRW_D3.85H5.3                 TopLayer 90       
+147.0000     54.0000      1540032NA3090     "WL-TTRW THT Phototransistor Round Waterclear, D3.85H5.3mm, 400-1100nm, 5mA, 30°"                          Q1         WL-TTRW_D3.85H5.3                 TopLayer 90       
+55.5000      76.0000      LM317MQDCYRG4     "IC REG LIN POS ADJ 500MA SOT223"                                                                          U1         FP-DCY0004A-IPC_B                 TopLayer 180      
+110.0000     66.7500      L6920DC           ""                                                                                                         U2         TSOP65P500X110-8N                 TopLayer 90       
+64.5000      78.0000      3.3O              "WRIS-KSKE Thick Film Resistor, SMT, size 2512, 1W, 3.3O, +/-1%"                                           R2         WRIS-KSKE_2512_L6.3W3.2H0.6       TopLayer 360      
+54.5000      58.5000      FDC655BN          "MOSFET N-CH 30V 6.3A SSOT-6"                                                                              S3         FP-419BL-MFG                      TopLayer 180      
+47.0000      63.7000      691305130002      "WR-TBL Serie 3051 Vertical PCB Header, Pluggable, pitch 3.5mm, 2p"                                        P2         691305130002                      TopLayer 360      
+109.0000     74.0000      "10uH, 1.9A"      "WE-PD SMT Power Inductor, size 6033R, 10uH, 1.9A"                                                         L2         WE-PD_6033R                       TopLayer 270      
+44.6250      76.1800      629722000214      "WR-USB 2.0 Type C, Receptacle, Horizontal, SMT"                                                           J1         629722000214                      TopLayer 270      
+112.5000     66.3000      100nF             "WCAP-CSGP Multilayer Ceramic Chip Capacitor, General Purpose, size 0805, X7R, 100nF, 25VDC"               C5         WCAP-CSGP_0805_L2W1.25H0.8_Reflow TopLayer 270      
